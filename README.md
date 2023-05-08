@@ -1,9 +1,9 @@
 
 ![Header](https://github.com/5pudge/pudgemine_1.16.5_mods/blob/main/assets/img/1.png)
 
-Последняя версия релиза модов forge и fabric![Header](https://img.shields.io/badge/моды-v1.0-blue) 
+Последняя версия релиза модов forge и fabric  ![Header](https://img.shields.io/badge/моды-v1.0-blue) 
 
-В данную сборку входят такие моды как:
+![header](https://img.shields.io/badge/Сборка-Fabric-yellow)  В данную сборку входят такие моды как:
 
 -Betterbeds
 
@@ -52,5 +52,11 @@
 -Emotecraft ![header](https://img.shields.io/badge/Версия-v2.2.5-orange)
 
 -ChatHeads
+
+
+
+![header](https://img.shields.io/badge/Сборка-Forge-yellow)  В данную сборку входят такие моды как:
+
+я не знаю алекс думай
 
 
