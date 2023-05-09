@@ -5,7 +5,7 @@
 
 ---
 
-![header](https://img.shields.io/badge/Сборка-Fabric-yellow)  В данную сборку входят такие моды как:
+![header](https://img.shields.io/badge/Сборка-Fabric-yellow)  В данную сборку входят такие моды как :
 
 -Betterbeds
 
