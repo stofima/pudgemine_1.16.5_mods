@@ -60,3 +60,9 @@
 я не знаю алекс думай
 
 
+---
+
+![header](https://img.shields.io/badge/5eafear-участник-green) - искал моды на фабрик, а также оформлял репозиторий  <div id="badges">
+<a href="https://vk.com/5eafear" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
+    </a>
