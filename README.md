@@ -59,4 +59,28 @@
 
 ![header](https://img.shields.io/badge/Сборка-Forge-yellow)  В данную сборку входят такие моды как:
 
-я не знаю алекс думай
+-ai-improvements
+
+-betterfpsdist
+
+-clumps
+
+-entityculling
+
+-lightspeed
+
+-magnesium
+
+-magnesium_extras
+
+-saturn
+
+-smoothboot
+
+Предустоновленые рекомендуемые моды:
+
+-SimpleVoiceChat ![header](https://img.shields.io/badge/Версия-v2.4.7-orange)
+
+-Emotecraft ![header](https://img.shields.io/badge/Версия-v2.2.5-orange)
+
+-ChatHeads
