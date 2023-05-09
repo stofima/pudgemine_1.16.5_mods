@@ -1,5 +1,5 @@
 
-![Header](https://github.com/5pudge/pudgemine_1.16.5_mods/blob/main/assets/img/1.png)
+![Header](https://github.com/teafear/pudgemine_1.16.5_mods/blob/main/assets/img/1.png)
 
 Последняя версия релиза модов forge и fabric  ![Header](https://img.shields.io/badge/моды-v1.0-blue) 
 
