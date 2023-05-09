@@ -3,6 +3,8 @@
 
 Последняя версия релиза модов forge и fabric  ![Header](https://img.shields.io/badge/моды-v1.0-blue) 
 
+---
+
 ![header](https://img.shields.io/badge/Сборка-Fabric-yellow)  В данную сборку входят такие моды как:
 
 -Betterbeds
@@ -53,16 +55,8 @@
 
 -ChatHeads
 
-
+---
 
 ![header](https://img.shields.io/badge/Сборка-Forge-yellow)  В данную сборку входят такие моды как:
 
 я не знаю алекс думай
-
-
----
-
-![header](https://img.shields.io/badge/5eafear-участник-green) - искал моды на фабрик, а также оформлял репозиторий  <div id="badges">
-<a href="https://vk.com/5eafear" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
